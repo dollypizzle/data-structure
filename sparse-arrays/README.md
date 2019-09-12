@@ -65,14 +65,16 @@ Sample Output 2
 
 Sample Output 3
 
+
+
     abcde sdaklfj asdjf na basdn sdaklfj asdjf na asdjf na basdn sdaklfj asdjf          13
-                                   Array: Strings                                       abcde
+                                   Array: strings                                       abcde
     .                                                                                   sdaklfj
     .                                                                                   asdjf
     .                                                                                   na
     .                                                                                   basdn
                          abcde   sdaklfj asdjf na basdn                                 sdaklfj
-                                 Array: Strings                                         asdjf
+                                 Array: queries                                         asdjf
     .                                                                                   na
     .                                                                                   asdjf
     .                                                                                   na
